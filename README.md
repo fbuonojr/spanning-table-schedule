@@ -1,13 +1,11 @@
-# Project Name
+# Weekly Schedule
 
-#### Technologies used: 
+#### Technologies used: HTML
 
-This application does . . . . .
+This application is a simple schedule that keeps tracks of my weekly tasks using HTML tables with row and column spanning.
 
-How to use
+* link to deployed application: https://fbuonojr.github.io/spanning-table-schedule/
 
-* link to deployed application:
+![](./images/schedule.PNG)
 
-![](./images/)
-
-###### Frank Buono- this app was created as practice using an activity from my bootcamp class
+###### Frank Buono
